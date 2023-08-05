@@ -1,2 +1,2 @@
 # Javascript-Projects
-Projects that i made while learning javascript.
+Solo mini projects that i made while learning javascript.
